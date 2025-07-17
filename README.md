@@ -66,9 +66,3 @@ Control a quadcopter's motion using real-time **hand gestures captured through a
 - NumPy
 - pySerial (for serial communication with Arduino)
 - MediaPipe (for hand detection) *(Optional but recommended)*
-
-### Install dependencies
-
-```bash
-pip install opencv-python numpy pyserial mediapipe
-# Gesture-Controlled-Drone
